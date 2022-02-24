@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act granting to their Majesties the rate of one penny per pound upon all the real and personal estates within this province of New-York, &amp;c. to be allowed unto His Excellency the governour, for the care of the province, November the 12th, 1692.</title>
+            <author>New York (State)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53024</idno>
+            <idno type="STC">Wing N822</idno>
+            <idno type="STC">ESTC R12150</idno>
+            <idno type="EEBO-CITATION">13574977</idno>
+            <idno type="OCLC">ocm 13574977</idno>
+            <idno type="VID">100436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100436)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 797:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act granting to their Majesties the rate of one penny per pound upon all the real and personal estates within this province of New-York, &amp;c. to be allowed unto His Excellency the governour, for the care of the province, November the 12th, 1692.</title>
+                  <author>New York (State)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bradford,</publisher>
+                  <pubPlace>[New York :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  New York (State) --  Early works to 1800.</term>
+               <term>Real property tax --  New York (State) --  Early works to 1800.</term>
+               <term>Taxation of personal property --  New York (State) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb n="1" facs="tcp:100436:1" rendition="simple:additions"/>
+            <head>An Act for Granting to their Majeſties the Rate of One Penny per Pound upon all the Real and Per<g ref="char:EOLhyphen"/>ſonal Eſtates within this Province of <hi>New-York,</hi> &amp;c. To be allowed unto his Excellency the Go<g ref="char:EOLhyphen"/>vernour, for the Care of the Province, <hi>November</hi> the 12th, 1692.</head>
+            <p>THe Repreſentatives convened in General Aſſembly, in all humble and dutiful Acknowledgement of their Majeſties moſt Gracious Favour and Regard to the Subjects of this Province, by Commiſſionating and Appointing over them, a Perſon to be their Governour, who is endued with moſt excellent Qualities, and hath given moſt ſignal Demonſtration of his conſtant Loyalty and Fidelity unto their Majeſties, by his prudent care and conduct, ſince his arrival into this their Majeſties Province, and who by his unwearied vigilence hath viſited the Frontiers of the ſame, and hath put them into ſuch poſture as that all the Subjects are in ſafety, tho' inviron'd with a powerfull Enemy; In the deepeſt Sence thereof become humble Sup<g ref="char:EOLhyphen"/>pliants unto their moſt Excellent Majeſties, and pray that they would be gra<g ref="char:EOLhyphen"/>ciouſly pleaſed to accept, as a token of their moſt Loyal and Sincere Affection unto their Majeſties, and their Government eſtabliſhed here, One Penny for every Pound value of all the Real and Perſonal Eſtates of all and every the Free-holders and Inhabitants within this their Majeſties Province and Depen<g ref="char:EOLhyphen"/>dancies; and do likewiſe humbly pray, that your moſt excellent Majeſties would be pleaſed to give &amp; allow the ſame unto <hi>Benjamin Fletcher</hi> 
+               <abbr>Eſq</abbr> Capt. General and Governour in chief in and over their Majeſties Province of <hi>New-York,</hi> and Territories thereon depending, in <hi>America,</hi> and pray that it be ſo enacted,</p>
+            <p>Be it therefore enacted by the Governour and Council, and Repreſentatives convened in General Aſſembly, and by the Authority of the ſame, That there be Aſſeſſed, Levyed and Collected One Penny for every Pounds value of all the Real and Perſonal Eſtates of all and every the Free-holders and Inhabitants within this Province and Dependencies, to be aſſeſſed, levyed, collected and paid in manner and form following, that is to ſay, The one half or moyety of the aforeſaid Aſſeſments of One Penny for every Pounds value of all the Real and Perſonal Eſtates, as aforeſaid, to be aſſeſſed, levyed, col<g ref="char:EOLhyphen"/>lected and paid unto their Majeſties Receiver General at <hi>New-York,</hi> at or be<g ref="char:EOLhyphen"/>fore the firſt day of <hi>September</hi> next, which ſhall be in the Year of our Lord One Thouſand Six Hundred Ninety and Three, and the other half or moyety of the ſaid Aſſeſment to be paid in like manner at or before the firſt day of <hi>September</hi> then next following, which ſhall be in the Year of our Lord One Thouſand Six Hundred Ninety and Four.</p>
+            <p>And for the more due and orderly Collection of the Aſſeſment aforeſaid,
+<pb n="2" facs="tcp:100436:2"/>Be it further enacted by the Authority aforeſaid, That the Mayor and Aldermen within the City of <hi>New-York</hi> for the time being, and the Mayor and Aldermen within the City of <hi>Albany</hi> for the time being, and the Juſtices of the Peace for the time being, for the ſeveral and reſpective Counties with<g ref="char:EOLhyphen"/>in this Province, for the ſeveral Counties reſpectively, for the which they ſhall be Juſtices of the Peace, do within ſix Months after Publication hereof aſſemble and meet together in the Court Houſes, for the ſeveral reſpective Cities and Counties, or ſuch other place or places as they ſhall agree among themſelves, and ſhall there order, That the Aſſeſſors and Collectors for the ſeveral and reſpective Cities, Towns Mannours, and Liberties, within their ſeveral Juriſdictions, for the aſſeſſing, collecting and receiving of the Publick Rates, for the defraying of the Publick and Neceſſary Charge of each reſpective City and County aforeſaid, be the Aſſeſſors and Collectors for the aſſeſſing, collecting and receiving the Rate of One Penny <hi>per</hi> Pound, as afore<g ref="char:EOLhyphen"/>ſaid, as to the ſaid Mayors and Aldermen and Juſtices of the Peace ſhall ſeem meet and reaſonable.</p>
+            <p>And foraſmuch as there are ſeveral Mannors and Juriſdictions within the reſpective Counties aforeſaid, who neglect, and do not elect annually, or once every year Aſſeſſors and Collectors, whereby the intent of this Act may be fruſtrated, Be it therefore Enacted by the Authority aforeſaid, That if the reſpective Mannours and Juriſdictions within the ſeveral Counties afore<g ref="char:EOLhyphen"/>ſaid, ſhall refuſe or neglect to elect Aſſeſſors and Collectors, for the aſſeſſing their reſpective Mannours and Juriſdictions, and for the Collecting the ſame, according to the intent and direction of this Act; Then and in ſuch caſe the Juſtices of the Peace of the County where ſuch Mannours or Juriſdictions are, Are hereby impowered and authorized to nominate and appoint Aſſeſ<g ref="char:EOLhyphen"/>ſors and Collectors, for ſuch Mannors and Juriſdictions as ſhall neglect and refuſe as aforeſaid; which Aſſeſſors and Collectors ſhall, to all intents and purpoſes, obſerve the directions of this Act, any thing contained herein to the contrary hereof in any wiſe notwithſtanding.</p>
+            <p>And be it further enacted by the Authority aforeſaid, That the ſaid Mayors, Aldermen and Juſtices of the Peace, for the reſpective Cities and Counties, Mannors and Juriſdictions, have and ſhall have Power and Authority by Virtue of this Act, each of them by himſelf, to adminiſter an Oath to the ſaid Aſſeſſors, <hi>Well, Truly, Equally and Impartially, in due Proportion, as it ſhall appear to them, according to their beſt <g ref="char:V">Ʋ</g>nderſtanding, to aſſeſs and rate the Inha<g ref="char:EOLhyphen"/>bitants, Reſidents and Free-holders of the reſpective places, for which they ſhall be choſen Aſſeſſors.</hi>
+            </p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any Perſon or Perſons, who ſhall be choſen Aſſeſſors and Collectors, ſhall deny, neglect, or unequally or partially aſſeſs or refuſe to make ſuch Aſſeſment, as by this Act is required, or ſhall deny, neglect or refuſe to collect any Sum or Sums of Money, in form afore-mentioned aſſeſt, that then and in ſuch caſe, it ſhall and may be lawful for any two Juſtices of the Peace of the Cities and
+<pb n="3" facs="tcp:100436:2"/>Counties where ſuch Offenders ſhall happen to dwell or reſide, &amp; who by virtue of this Act, are required and impowered to do the ſame by Warrant under their Hands and Seals, to commit ſuch Aſſeſſor or Aſſeſſors, Collector or Collectors ſo denying, neglecting or unequally and partially aſſeſſing, or re<g ref="char:EOLhyphen"/>fuſing to collect, as aforeſaid, to the common Goal, there to remain without Bayl or Mainprize till he or they make Fine and Ranſom to their Majeſties, as aforeſaid.</p>
+            <p>And be it further enacted by the Authority aforeſaid, That if any Perſon or Perſons, of what degree or Quality ſoever he or they be, within this Province, who ſhall be aſſeſſed or rated any ſum or ſums of Money by virtue of this Act to be raiſed and levyed, ſhall deny, refuſe or delay to pay, and ratify the ſame, that then it ſhall and may be lawful for any ſuch Col<g ref="char:EOLhyphen"/>lector, by Virtue of a Warrant under the Hand and Seal of any Juſtice of the Peace for the City or County where ſuch Offender ſhall dwell or reſide, who by Virtue of this Act are Required and Authorized to grant and iſſue forth ſuch Warrant, to levy the ſame by Diſtreſs and Sale of ſuch Perſon or Perſons Goods and Chartles, returning the Over-plus, if any be, to the Owners, the Sum aſſeſſed, and Charges of Diſtreſs and Sale being firſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deducted.</p>
+            <p>And alſo, be it further Enacted by the Authority aforeſaid, That if any Mayor, Alderman or Juſtice of the Peace within this Province, who are hereby Required, Impowered and Authorized to take effectual care that this Act, and every Article and Clauſe therein be duely executed, according to the true intent and meaning thereof, ſhall deny, neglect, refuſe or delay to do, perform, fullfill and execute all and every or any the Duties, Powers and Authorities, by this Act required and impowered, by him or them to be done, performed, fullfilled or executed, and ſhall thereof be convicted before his Excellency, the Governour and Captain General, and Council, or before any of their Majeſties Courts of Record within this Province, he or they ſhall ſuffer ſuch pain, by Fine and Impriſonment, as by the direction of the ſaid Governor and Captain General, and Council, and the Juſtices of the ſaid Courts, ſhall be adjudged.</p>
+            <p>And be it further enacted by the Authority aforeſaid, That if any Action, Bill, Plaint or Information ſhall be brought, moved or preſented at any time hereafter againſt any Perſon or Perſons, for any Matter, Clauſe or Thing, done or acted in purſuance or execution of this Act, ſuch Perſon or Perſons ſo Sued or proſecuted in any Court whatſoever, ſhall and may plead the general Iſſue, <hi>Not Guilty,</hi> and give this Act, and the ſpecial Matter in Evidence; and if the Plantiff or Proſecutor ſhall be Non-ſuited, or forbear further Proſecution, or ſuffer Diſcontinuance or Virdict to paſs againſt him, the Defendant and Defendants ſhall recover Tribble Coſts, for which they ſhall have the like Remedy, as in caſe where Coſts by the Law are given to Defendants.</p>
+            <pb n="4" facs="tcp:100436:3"/>
+            <p>Provided alwayes, That no Mayor, Alderman or Juſtice of the Peace ſhall be troubled, ſued or moleſted for any Omiſſion, Offence or Neg<g ref="char:EOLhyphen"/>lect by Virtue of this Act, but within the ſpace of one Year after ſuch Omiſſion, Offence or Neglect, and not any time hereafter, any thing con<g ref="char:EOLhyphen"/>tained herein to the contrary thereof in any wiſe notwithſtanding.</p>
+            <p>Always Provided, and be it further Enacted by the Authority aforeſaid, That the ſeveral Collectors of each reſpective City and County, as aforeſaid, ſhall have liberty to pay the ſeveral reſpective Sums aſſeſſed, as aforeſaid, at the Time and Days aforeſaid in Currant Money at <hi>New-York,</hi> or for want thereof, in good, ſufficient and merchantable Proviſions at the currant Market Price.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
